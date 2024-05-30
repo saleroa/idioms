@@ -1,0 +1,176 @@
+[2024-05-27 16:57:06.862]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 16:57:06.865]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 16:57:06.866]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 16:57:06.992]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 16:57:06.992]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 16:57:07.351]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 16:57:07.351]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:03:33.607]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/user.go:28	internal error in 'mysql.SearchUserByUsername' 	{"error": "failed to SearchUserByUsername: Error 1146 (42S02): Table 'idioms.users' doesn't exist"}
+[2024-05-27 17:06:24.423]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:06:24.426]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:06:24.426]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:06:24.434]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.436]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.438]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.439]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.440]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.441]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.443]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.445]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.446]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.448]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.448]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.448]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.450]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.451]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.453]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.454]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.455]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.457]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.458]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.459]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.461]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.463]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.464]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.466]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.467]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.469]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.470]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.471]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.473]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.474]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.475]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.477]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.478]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.479]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.481]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.482]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.484]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.486]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.487]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.489]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.490]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.491]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.493]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.494]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.496]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.497]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.499]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.500]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.501]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.503]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.505]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.506]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.508]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.510]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.511]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.512]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.514]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.515]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.517]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.518]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.520]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.521]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.522]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.524]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.525]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.526]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.528]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.529]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.530]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.532]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.533]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.534]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.536]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.538]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.539]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.540]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.542]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.543]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.545]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.546]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.548]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.549]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.550]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.552]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.553]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.555]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.556]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.558]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.559]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.560]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.562]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.563]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.565]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.566]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.568]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.571]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.573]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.575]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.577]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.579]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.580]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.580]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.583]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.584]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.587]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.589]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.591]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.593]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.595]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.598]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.599]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.601]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.602]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.604]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.605]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.607]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.609]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.611]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.614]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.616]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.618]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.619]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.621]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.622]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.624]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:24.625]	[33mWARN[0m	/home/zero/go/src/idoms/boot/initResource.go:43	failed to insert idiom to database
+[2024-05-27 17:06:34.968]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:06:34.969]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:06:34.970]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:11:50.735]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:11:50.737]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:11:50.738]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:19:11.670]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:19:11.672]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:19:11.672]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:19:22.378]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/idom.go:57	internal error in 'mysql.GetRandomOne' 	{"error": "failed to SearchIdiomById: Error 1054 (42S22): Unknown column 'derivation' in 'field list'"}
+[2024-05-27 17:19:23.741]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/idom.go:57	internal error in 'mysql.GetRandomOne' 	{"error": "failed to SearchIdiomById: Error 1054 (42S22): Unknown column 'derivation' in 'field list'"}
+[2024-05-27 17:23:13.591]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:23:13.592]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:23:13.594]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:44:43.837]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:44:43.839]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:44:43.839]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:45:16.865]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/collect.go:30	internal error in 'mysql.SearchIdiomById' 	{"error": "failed to SearchIdiomById: sql: no rows in result set"}
+[2024-05-27 17:50:05.723]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:50:05.725]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:50:05.725]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:50:15.920]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/collect.go:30	internal error in 'mysql.SearchIdiomById' 	{"error": "failed to SearchIdiomById: sql: no rows in result set"}
+[2024-05-27 17:57:17.604]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 17:57:17.606]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 17:57:17.607]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 17:57:27.514]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/collect.go:41	internal error in 'redis.Collect' 	{"error": "failed to collect idiom : WRONGTYPE Operation against a key holding the wrong kind of value"}
+[2024-05-27 17:57:28.413]	[31mERROR[0m	/home/zero/go/src/idoms/api/handlers/collect.go:41	internal error in 'redis.Collect' 	{"error": "failed to collect idiom : WRONGTYPE Operation against a key holding the wrong kind of value"}
+[2024-05-27 18:00:47.517]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 18:00:47.518]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 18:00:47.519]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 18:10:39.551]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 18:10:39.552]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 18:10:39.553]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 19:03:19.131]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 19:03:19.133]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 19:03:19.133]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
+[2024-05-27 19:03:53.691]	[34mINFO[0m	/home/zero/go/src/idoms/boot/logger.go:54	initialize logger success
+[2024-05-27 19:03:53.692]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:38	initialize Mysql success
+[2024-05-27 19:03:53.692]	[34mINFO[0m	/home/zero/go/src/idoms/boot/database.go:60	initialize redis success
